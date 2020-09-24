@@ -35,3 +35,13 @@ Premièrement, nous réaliserons une porte automatique s'ouvrant en passant deva
 Nous parlerons aussi de **Git**, et de comment l'utiliser pour l'**Unreal Engine** !
 
 Pour terminer, je vous laisserai découvrir les **Blueprints** plus en profondeur avec quelques pistes !
+
+## Epic Games Launcher
+### Onglet Unreal Engine (Anciennement Communauté)
+Une fois téléchargé, et installé, vous devriez arriver sur une fenêtre similaire, si non, cliquez sur Unreal Engine dans le choix de la catégorie :
+<div align="center">
+<a id="EGL_1"><img src="ressources_readme/EGL_1.jpg" width="700" height="" /></a>
+</div>
+<br />
+Pour le moment, rien de bien compliqué sur cette page ! Vous pouvez y retrouver les news importante en premier plan, les liens de news, channel YouTube d'Unreal, le StackOverflow d'Epic, le Forum et la Roadmap (pas la peine de développer une feature si une qui arrive vous convient ! :smirk:)
+En dessous, vous pourrez retrouver les informations récentes, et sur la droite, les projets de la communauté ! D'où son ancien nom : Communauté.
