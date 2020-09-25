@@ -115,4 +115,4 @@ Vous trouverez ici les [**Assets**](/assets) que j'ai jugé pertinent de vous do
 Les images du moteur et du launcher ainsi que les assets de l'éditeur sont la propriétés d'Epic Games.\
 Le contenu du cours a été écrit dans le cadre d'une présentation à des Coding Club et Hub d'Epitech Lyon.\
 Merci à Thomas pour son aide à l'élaboration de ce cours !\
-Si vous avez une question, un retour à me faire, ou tout autre questions, contactez moi via <a href="mailto:matthieu.eynard-longuet@epitech.eu">**matthieu.eynard-longuet@epitech.eu**</a>.
+Si vous avez une question, un retour à me faire, ou autre, contactez moi via <a href="mailto:matthieu.eynard-longuet@epitech.eu">**matthieu.eynard-longuet@epitech.eu**</a>.
