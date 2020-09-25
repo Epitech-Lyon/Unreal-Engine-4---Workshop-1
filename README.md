@@ -53,9 +53,13 @@ Le second onglet, l'onglet Apprendre, regroupe pas mal de choses !
 <a id="EGL_1"><img src="ressources_readme/EGL_2.jpg" width="700" height="" /></a>
 </div>
 <br/>
-- <a href="https://docs.unrealengine.com/en-US/index.html">Documentation</a> : Comme son nom l'indique, vous trouverez toute la Documentation de l'Éditeur. Allant simplement de la création de votre premier projet, au scripting de l'éditeur, en passant par la création de test unitaire ou la modification du moteur ! Vous pourrez tout trouver ici.<br/>
-- <a href="https://learn.unrealengine.com/home/dashboard">Unreal Online Learning</a> : Anciennement Unreal Academy, ce sont des **MOOC**. Des cours en ligne vidéo quoi, tout simplement. Très utile pour maîtriser certaines fonction de l'éditeur, ou juste pour apprendre. Pas mal de contenu spécialisé (**Quixel, Procedural, Blueprints**…)<br/>
-- <a href="https://forums.unrealengine.com/unreal-engine/announcements-and-releases/1745504-a-new-community-hosted-unreal-engine-wiki">Community Wiki</a> : Devenu poussière, il est peut être en train de renaître de ses cendres grâce à quelques efforts de la communauté.<br/>
+
+- <a  href="https://docs.unrealengine.com/en-US/index.html">**Documentation**</a> : Comme son nom l'indique, vous trouverez toute la Documentation de l'Éditeur. Allant simplement de la création de votre premier projet, au scripting de l'éditeur, en passant par la création de test unitaire ou la modification du moteur ! Vous pourrez tout trouver ici.<br/>
+
+- <a  href="https://learn.unrealengine.com/home/dashboard">**Unreal Online Learning**</a> : Anciennement Unreal Academy, ce sont des **MOOC**. Des cours en ligne vidéo quoi, tout simplement. Très utile pour maîtriser certaines fonction de l'éditeur, ou juste pour apprendre. Pas mal de contenu spécialisés (**Quixel**, **Procedural**, **Blueprints**…)<br/>
+
+- <a  href="https://forums.unrealengine.com/unreal-engine/announcements-and-releases/1745504-a-new-community-hosted-unreal-engine-wiki">**Community Wiki**</a> : Devenu poussière, il est peut être en train de renaître de ses cendres grâce à quelques efforts de la communauté.<br/>
+
 - Le reste sont des **Quick Start Guide**, ainsi que des projets template pour se familiariser avec des features ou notions.<br/>
 
 ### Onglet Marché
@@ -63,3 +67,52 @@ Le troisième onglet, sûrement celui qui fera couler le plus d'encre, j'ai nomm
 <div align="center">
 <a id="EGL_1"><img src="ressources_readme/EGL_3.jpg" width="700" height="" /></a>
 </div>
+
+# Bonus
+## Comment est-ce que l'on crée un jeu ?
+
+Voici un modèle **très** simplifié que j'aime bien présenter : les étapes de création d'un jeu vidéo.
+<table align="center">
+<tr>
+<td align="center" width="9999">
+
+```mermaid
+
+graph LR
+
+subgraph Design
+A[Idéation] --> B[Game Design]
+end
+
+subgraph Production
+B --> C[Programmation]
+B --> D[Art]
+C --> E[Prototype]
+D --> E
+end
+
+E --> F[Test]
+
+subgraph Quality
+X --> B
+B --> A
+end
+
+F --> Z[Livraison]
+F --> X[Nouvelle Fonctionnalitée / Optimisation]
+```
+</td>
+</tr>
+</table>
+
+Alors oui, cela ne correpondra sûrement pas à la méthodologie qu'utilise Ubisoft, mais le principe est là, surtout pour une Game Jam.
+
+## Assets
+Vous trouverez ici les [**Assets**](/assets) que j'ai jugé pertinent de vous donner.  
+- Le **BP_Character_Master.uasset** vous permet d'utiliser tout personnage de Paragon (mais aussi d'autres en 3D) à récupérer sur le Marketplace, très simplement en peu de temps en créant un Child Blueprint, ou non. Presque toute la logique de déplacement et d'action à été mise en place, basé sur celui de Shinbi, asset gratuit fourni par Epic Games.
+
+# Crédits
+Les images du moteur et du launcher ainsi que les assets de l'éditeur sont la propriétés d'Epic Games.\
+Le contenu du cours a été écrit dans le cadre d'une présentation à des Coding Club et Hub d'Epitech Lyon.\
+Merci à Thomas pour son aide à l'élaboration de ce cours !\
+Si vous avez une question, un retour à me faire, ou tout autre questions, contactez moi via <a href="mailto:matthieu.eynard-longuet@epitech.eu">**matthieu.eynard-longuet@epitech.eu**</a>.
