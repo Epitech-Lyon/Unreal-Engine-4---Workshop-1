@@ -44,6 +44,7 @@ Une fois téléchargé, et installé, vous devriez arriver sur une fenêtre simi
 </div>
 <br />
 Pour le moment, rien de bien compliqué sur cette page ! Vous pouvez y retrouver les news importante en premier plan, les liens de news, channel YouTube d'Unreal, le StackOverflow d'Epic, le Forum et la Roadmap (pas la peine de développer une feature si une qui arrive vous convient ! :smirk:)
+
 En dessous, vous pourrez retrouver les informations récentes, et sur la droite, les projets de la communauté ! D'où son ancien nom : Communauté.
 
 ### **Onglet Apprendre**
@@ -53,12 +54,12 @@ Le second onglet, l'onglet Apprendre, regroupe pas mal de choses !
 </div>
 <br/>
 - <a href="https://docs.unrealengine.com/en-US/index.html">Documentation</a> : Comme son nom l'indique, vous trouverez toute la Documentation de l'Éditeur. Allant simplement de la création de votre premier projet, au scripting de l'éditeur, en passant par la création de test unitaire ou la modification du moteur ! Vous pourrez tout trouver ici.<br/>
-- <a href="https://learn.unrealengine.com/home/dashboard">Unreal Online Learning</a> : Anciennement Unreal Academy, ce sont des MOOC. Des cours en ligne vidéo quoi, tout simplement. Très utile pour maîtriser certaines fonction de l'éditeur, ou juste pour apprendre. Pas mal de contenu spécialisé (Quixel, Procedural, Blueprints…)<br/>
+- <a href="https://learn.unrealengine.com/home/dashboard">Unreal Online Learning</a> : Anciennement Unreal Academy, ce sont des **MOOC**. Des cours en ligne vidéo quoi, tout simplement. Très utile pour maîtriser certaines fonction de l'éditeur, ou juste pour apprendre. Pas mal de contenu spécialisé (**Quixel, Procedural, Blueprints**…)<br/>
 - <a href="https://forums.unrealengine.com/unreal-engine/announcements-and-releases/1745504-a-new-community-hosted-unreal-engine-wiki">Community Wiki</a> : Devenu poussière, il est peut être en train de renaître de ses cendres grâce à quelques efforts de la communauté.<br/>
-- Le reste sont des Quick Start Guide, ainsi que des projets template pour se familiariser avec des features ou notions.<br/>
+- Le reste sont des **Quick Start Guide**, ainsi que des projets template pour se familiariser avec des features ou notions.<br/>
 
 ### Onglet Marché
-Le troisième onglet, sûrement celui qui fera couler le plus d'encre... Le Marché !
+Le troisième onglet, sûrement celui qui fera couler le plus d'encre, j'ai nommé : Le Marché !
 <div align="center">
 <a id="EGL_1"><img src="ressources_readme/EGL_3.jpg" width="700" height="" /></a>
 </div>
