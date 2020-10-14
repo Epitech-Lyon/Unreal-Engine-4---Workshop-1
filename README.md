@@ -50,7 +50,7 @@ En dessous, vous pourrez retrouver les informations récentes, et sur la droite,
 ### **Onglet Apprendre**
 Le second onglet, l'onglet Apprendre, regroupe pas mal de choses !
 <div align="center">
-<a id="EGL_1"><img src="ressources_readme/EGL_2.jpg" width="700" height="" /></a>
+<a id="EGL_2"><img src="ressources_readme/EGL_2.jpg" width="700" height="" /></a>
 </div>
 <br/>
 
@@ -65,8 +65,28 @@ Le second onglet, l'onglet Apprendre, regroupe pas mal de choses !
 ### Onglet Marché
 Le troisième onglet, sûrement celui qui fera couler le plus d'encre, j'ai nommé : Le Marché !
 <div align="center">
-<a id="EGL_1"><img src="ressources_readme/EGL_3.jpg" width="700" height="" /></a>
+<a id="EGL_3"><img src="ressources_readme/EGL_3.jpg" width="700" height="" /></a>
 </div>
+Le marché est un onglet très intéressant si vous n'êtes pas un artiste dans l'âme. D'ailleurs si vous en êtes un aussi. Vous pouvez trouver énormément d'Assets gratuitement, d'autant plus qu'Epic Games en fourni chaque mois. De plus, rien ne vous empêche de modifier les assets achetés pour les adapter à votre jeu. 
+Un article était sortie sur le sujet il y a pas mal de temps, si vous souhaitez le retrouver, la partie se nomme **Modify and make assets your own**.
+
+### Onglet Bibliothèque
+On arrive enfin aux choses sérieuses, ce qui nous va nous intéresser le plus dans le launcher : la bibliothèque.
+<div align="center">
+<a id="EGL_4"><img src="ressources_readme/EGL_4.jpg" width="700" height="" /></a>
+</div>
+Je crois qu'ici, tout est explicite, sauf peut-être le **Coffre**. C'est ici que vous pourrez télécharger, ajouter au projet, et parfois créer des projets à partir de ce que vous avez acheté. Vous y retrouverez donc vos plugins, assets et autres démos.
+
+C'est avec cela que nous terminons sur l'Epic Games Launcher. Nous rentrons désormais au coeur de ce Workshop : l'Unreal Engine.
+
+## Unreal Engine 4
+### Launcher
+Une fois l'Unreal Engine 4 lancé, vous  devriez arriver sur un écran similaire.
+<div align="center">
+<a id="UEL_1"><img src="ressources_readme/UEL_1.jpg" width="700" height="" /></a>
+</div>
+Créeons donc notre premier projet. 
+Pour cela : Games > Blank > Blueprint ou **C++ si vous comptez en faire, mais notre introduction n'en comportera pas** et gardez bien le Starter Content, sinon vous devrez l'ajouter par la suite. Nommez votre projet, puis **Create Project**.
 
 # Bonus
 ## Comment est-ce que l'on crée un jeu ?
