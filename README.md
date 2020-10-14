@@ -105,7 +105,7 @@ Désormais, à vous de jouer ! File, New Level… et Default (ou Time Of Day si 
 Le but est d'arriver à un résultat similaire aux images ci-dessous.
 
 <div align="center">
-<a id="UE_1"><img src="ressources_readme/UE_1.jpg" width="700" height="" /></a>
+<a id="UE_2"><img src="ressources_readme/UE_2.jpg" width="700" height="" /></a>
 </div>
 
 > 💭 RÉFLEXION
@@ -176,4 +176,4 @@ Le contenu du cours a été écrit dans le cadre d'une présentation à des Codi
 Merci à Thomas pour son aide à l'élaboration de ce cours !\
 Si vous avez une question, un retour à me faire, ou autre, contactez moi via <a href="mailto:matthieu.eynard-longuet@epitech.eu">**matthieu.eynard-longuet@epitech.eu**</a>.
 
-Pour plus d'informations : <a target="_blank" href="https://matthieu.ehanor.fr/">**https://matthieu.ehanor.fr/**</a>.
+Pour plus d'informations : <a href="https://matthieu.ehanor.fr/">**https://matthieu.ehanor.fr/**</a>.
