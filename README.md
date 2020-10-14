@@ -313,13 +313,14 @@ Si vous avez une question, un retour à me faire, ou autre, contactez moi via <a
 
 > ⚠️ INFORMATION
 >
-> D'autres Sujets sont en cours d'édition, étant donné que ce Workshop fait partie d'une série de 3.
+> D'autres sujets sont en cours d'édition, étant donné que ce Workshop fait partie d'une série de 3.
 >
 
 Pour plus d'informations : <a href="https://matthieu.ehanor.fr/">**https://matthieu.ehanor.fr/**</a>.
 
 </br>
+</br>
 <div align="center">
-<a id="UE_3" href="https://matthieu.ehanor.fr/"><img src="ressources_readme/Ehanor_Logo.png" width="200" height="" /></a>
+<a id="UE_3" href="https://matthieu.ehanor.fr/"><img src="ressources_readme/Ehanor_Logo.png" width="150" height="" /></a>
 </div>
 </br>
