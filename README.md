@@ -243,6 +243,21 @@ Si vous avez d'autres idées, ou ambitions, c'est le moment ! Mettez-les à l'é
 > Faites-vous plaisir ! C'est le moment ! Il n'y a pas de limite de temps... Ou presque ! Sinon, regardez la suite du Document !
 >
 
+# Pour aller plus loin
+Nous avons vu les bases de l’éditeur, de son utilisation, et des Blueprints. Vous ne vous en rendez peutêtre pas compte, mais vous avait déjà fait un travail surhumain ! Et n’oubliez pas que, la limitation technique permet de développer la créativité. 😉
+Si vous voulez vraiment vous lancer plus profondément dans ce moteur de jeu, je ne peux que vous recommander les vidéos de Ben Tristem sur Udemy concernant Unreal Engine. 
+Ce dernier aborde autant le C++ que le Blueprints et les différents aspects de création d’un jeu tout en mettant au point des défis pour apprendre. 
+De plus, si vous souhaitez apprendre gratuitement, Unreal Academy est un bon point, ainsi que pas mal de tutoriels sur YouTube. 
+Vous pourrez trouver tous ces liens à la fin.
+
+- <a href="https://academy.unrealengine.com/">Unreal Academy</a>
+- <a href="https://www.youtube.com/watch?v=ZxY3TYqWN2o&list=PLqihHB3m2p02jzEK-YSAT2YDPOU9pDmKO">Kawaii Slender, Tutoriel Complet</a>
+- <a href="https://www.udemy.com/unreale4/">Cours Udemy UE4 "officiel"</a>
+- <a href="https://www.udemy.com/unrealcourse/">Cours Udemy UE4 par Ben Tristem et GameDevTV</a>
+- <a href="https://www.udemy.com/unrealmultiplayer/">Cours Udemy UE4 Réseau par Ben Tristem et GameDevTV</a>
+- <a href="https://www.mcvuk.com/development-news/10-things-you-didnt-know-you-can-do-with-unreal-engine-4/">Tips UE4</a>
+- <a href="https://80.lv/articles/unreal-engine-4/">Inspiration et Tips pour Unreal Engine 4</a>
+
 # Bonus
 ## Comment est-ce que l'on crée un jeu ?
 
