@@ -311,4 +311,15 @@ Le contenu du cours a été écrit dans le cadre d'une présentation à des Codi
 Merci à Thomas pour son aide à l'élaboration de ce cours !\
 Si vous avez une question, un retour à me faire, ou autre, contactez moi via <a href="mailto:matthieu.eynard-longuet@epitech.eu">**matthieu.eynard-longuet@epitech.eu**</a>.
 
+> ⚠️ INFORMATION
+>
+> D'autres Sujets sont en cours d'édition, étant donné que ce Workshop fait partie d'une série de 3.
+>
+
 Pour plus d'informations : <a href="https://matthieu.ehanor.fr/">**https://matthieu.ehanor.fr/**</a>.
+
+</br>
+<div align="center">
+<a id="UE_3"><img src="ressources_readme/Ehanor_Logo.jpg" width="700" height="" /></a>
+</div>
+</br>
