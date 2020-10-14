@@ -320,6 +320,6 @@ Pour plus d'informations : <a href="https://matthieu.ehanor.fr/">**https://matth
 
 </br>
 <div align="center">
-<a id="UE_3" href="https://matthieu.ehanor.fr/"><img src="ressources_readme/Ehanor_Logo.jpg" width="700" height="" /></a>
+<a id="UE_3" href="https://matthieu.ehanor.fr/"><img src="ressources_readme/Ehanor_Logo.png" width="700" height="" /></a>
 </div>
 </br>
