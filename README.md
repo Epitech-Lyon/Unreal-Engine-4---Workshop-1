@@ -300,6 +300,9 @@ Alors oui, cela ne correpondra sûrement pas à la méthodologie qu'utilise Ubis
 ## Assets
 Vous trouverez ici les [**Assets**](/assets) que j'ai jugé pertinent de vous donner.  
 - Le **BP_Character_Master.uasset** vous permet d'utiliser tout personnage de Paragon (mais aussi d'autres en 3D) à récupérer sur le Marketplace, très simplement en peu de temps en créant un Child Blueprint, ou non. Presque toute la logique de déplacement et d'action à été mise en place, basé sur celui de Shinbi, asset gratuit fourni par Epic Games.
+- Le **gitignore** vous permet de ne pas vous soucier des artefacts ou de ce que vous ajoutez dans le git. Il permet d'avoir un repo clean ! Testé et approuvé ! (Normalement...)
+- Le **gitattribute** vous permet d'utiliser Git LFS pour gérer vos assets, les locks & co pour pouvoir travailler facilement à plusieurs sans conflit ! Il vous faut un serveur supportant LFS, à utiliser de pair avec <a href="https://github.com/SRombauts/UE4GitPlugin">ce plugin</a>.
+
 
 # Crédits
 Les images du moteur et du launcher ainsi que les assets de l'éditeur sont la propriétés d'Epic Games.\
