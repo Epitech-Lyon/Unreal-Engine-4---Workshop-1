@@ -223,6 +223,26 @@ N’oubliez pas d'utiliser votre Trigger Volume dans l’éditeur aussi... 😉
 > Pourquoi pas une porte s’ouvrant avec une touche ?
 >
 
+# Activités Supplémentaires
+Vous avez réussi votre porte en Blueprint ? Super ! Non ? Réessayez ! Vraiment, c'est important pour la suite. Cela vous permettra de vous mettre dans une certaine logique.
+
+Si ce n'est pas facile au début, c'est NORMAL ! Surtout si vous n'avez que très peu touché à la programmation ou un moteur de jeu. N'hésitez pas à demander de l'aide ou à me contacter si vous voulez vraiment le faire et que vous n'y arrivez pas.
+
+Que vous ayez réussi, ou non - RETOURNEZ SUR LES BLUEPRITNS AU DESSUS -, je vous propose de plonger un peu plus dans la logique de programmation en Blueprint. Ceux qui voient encore les Blueprints comme un moyen utilisé par ceux qui ne savent pas coder... Vous n'avez pas totalement raison. Cela permet de se familiariser avec l'éditeur, ses fonctions, et fait directement écho au C++ (utilisé par Unreal Engine). N'oubliez pas que vous pouvez même créer vos Blueprints en C++ ! Ah et un conseil : Si vous le pouvez, travaillez à plusieurs, c'est mieux !
+
+Je vous propose ainsi trois réalisations, en plus des bonus d'améliorations de la porte (sauf la récupération automatique du Trigger, cela peut être assez complexe au début à mettre en place).
+
+- Un Blueprint de **SM_Lamp_Ceilling** ayant une **Point Light** ou **Spot Light** s'éclairant quand le joueur entre dans un **Triger Volume** ou utilise un **Input** de <a href="https://www.unrealengine.com/en-US/blog/input-action-and-axis-mappings-in-ue4">**Action Mappings (Project Settings)**</a>. Un peu d'aide par <a href="https://nerivec.github.io/old-ue4-wiki/pages/blueprint-light-switch-tutorial.html">ici</a>.
+- Une maison **autonome** avec toutes les lumières s'éclairant une fois la personne passé la porte.
+- Utiliser une **Timeline** pour rendre tout cela fluide et non instantané. Un éclairage progressive en soit. Attention, cela pourrait être utile d'utiliser la <a href="https://docs.unrealengine.com/en-US/Engine/Blueprints/UserGuide/Timelines/index.html">Documentation</a> ou la vidéo de <a href="https://www.youtube.com/watch?v=v7bdcvGlgIg">WTFis</a>.
+
+Si vous avez d'autres idées, ou ambitions, c'est le moment ! Mettez-les à l'épreuve ! Essayez même de nouvelles fonctions, pourquoi pas après tout ?
+
+> 💭 RÉFLEXION
+>
+> Faites-vous plaisir ! C'est le moment ! Il n'y a pas de limite de temps... Ou presque ! Sinon, regardez la suite du Document !
+>
+
 # Bonus
 ## Comment est-ce que l'on crée un jeu ?
 
