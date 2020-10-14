@@ -127,6 +127,17 @@ créatifs !
 >
 >
 
+### Blueprints
+Les **Blueprints** sont un système de **programmation visuel** développé pour Unreal Engine permettant de scripter son jeu sans savoir programmer.
+
+Cependant, il est aussi complémentaire avec le C++, utiliser les deux permet de gagner du temps tout en ayant une optimisation finale quasi-identique.
+Il ne faut pas voir l'un comme le remplaçant de l'autre, mais coinjointement. Même si les Blueprints tendent petit à petit à s'imposer face au C++ d'Unreal au vu de sa facilité...
+
+Voici à quoi cela ressemble !
+<div align="center">
+<a id="UE_3"><img src="ressources_readme/UE_3.jpg" width="700" height="" /></a>
+</div>
+
 # Bonus
 ## Comment est-ce que l'on crée un jeu ?
 
