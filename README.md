@@ -1,22 +1,18 @@
 # Unreal Engine Workshop - Partie 1
 
-
 ## Introduction
-
 Bonjour, et bienvenue à tous sur ce Post-Workshop. L'on m'a demandé de vous retranscrire ce Workshop pour pouvoir le reproduire de votre côté. Il évoluera certainement au fur et à mesure de vos retours si des choses sont à corriger par la suite. 
 
 Ni une, ni deux, rentrons dans le vif du sujet !
 
 
 ## Prérequis
-
 - Installer Unreal Engine 4.20 (ou une autre version ultérieure)
 - Une souris, c'est plus simple pour naviguer en 3D, la manette fonctionne aussi
 - Clavier en QWERTY (Juste passer la langue en ENG suffit pour travailler simplement, ou alors, amusez-vous à modifier les options de l’éditeur ou encore importez un preset Français)
 
 
 ## Résumé de l'Unreal Engine Workshop - Partie 1
-
 En premier, nous allons découvrir l'**Epic Games Launcher**, le cœur d'**Unreal Engine**. Si vous avez l'habitude de l'utiliser pour Fortnite, tant mieux, mais peu de gens regarde la partie **Unreal Engine**. 
 Nous allons donc y jeter un œil.
 
@@ -90,6 +86,47 @@ Créons donc notre premier projet.
 
 Pour cela : Games > Blank > Blueprint ou **C++ si vous comptez en faire, mais notre introduction n'en comportera pas** et gardez bien le Starter Content, sinon vous devrez l'ajouter par la suite. Nommez votre projet, puis **Create Project**.
 
+### Editeur
+Après création de votre projet, si vous n'arrivez pas sur une scène similaire à celle-ci. C'est soit que vous avez oublié le Starter Content, soit que votre Projet n'est pas un Jeu.
+
+<div align="center">
+<a id="UE_1"><img src="ressources_readme/UE_1.jpg" width="700" height="" /></a>
+</div>
+
+> 🔍 DÉCOUVERTE
+>
+> Prenez le temps d'explorer l'éditeur, sa gestion des fenêtres, et ses différents menus.
+>
+> N'hésitez pas à aller voir **Editor Preferences** et **Project Settings** (dans Edit), ils sont très importants !
+>
+
+### Votre premier niveau
+Désormais, à vous de jouer ! File, New Level… et Default (ou Time Of Day si vous ne souhaitez pas trop vous occuper des lumières).
+Le but est d'arriver à un résultat similaire aux images ci-dessous.
+
+<div align="center">
+<a id="UE_1"><img src="ressources_readme/UE_1.jpg" width="700" height="" /></a>
+</div>
+
+> 💭 RÉFLEXION
+>
+> A vous d’essayer ! Essayez de faire quelque chose de similaire (intérieur,
+extérieur ou même les deux) ! 
+>
+> Jouez avec les effets, formes et Materials. Soyez
+créatifs !
+
+> 🎯 ASTUCE
+>
+> N'hésitez pas à utiliser les Box de Geometry en Additive ou Substractive. Voir même l'outil **Geometry Editing**.
+>
+
+> 🔍 DÉCOUVERTE
+>
+> Prenez votre temps et n'hésitez pas à travailler à plusieurs ou demander de l'aide. Vous pouvez même aller voir le <a href="https://docs.unrealengine.com/en-US/Engine/QuickStart/index.html">Quick Start Level Design en cliquant ici</a>.
+>
+>
+
 # Bonus
 ## Comment est-ce que l'on crée un jeu ?
 
@@ -138,3 +175,5 @@ Les images du moteur et du launcher ainsi que les assets de l'éditeur sont la p
 Le contenu du cours a été écrit dans le cadre d'une présentation à des Coding Club et Hub d'Epitech Lyon.\
 Merci à Thomas pour son aide à l'élaboration de ce cours !\
 Si vous avez une question, un retour à me faire, ou autre, contactez moi via <a href="mailto:matthieu.eynard-longuet@epitech.eu">**matthieu.eynard-longuet@epitech.eu**</a>.
+
+Pour plus d'informations : <a target="_blank" href="https://matthieu.ehanor.fr/">**https://matthieu.ehanor.fr/**</a>.
