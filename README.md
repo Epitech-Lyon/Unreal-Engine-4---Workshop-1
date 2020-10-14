@@ -245,6 +245,7 @@ Si vous avez d'autres idées, ou ambitions, c'est le moment ! Mettez-les à l'é
 
 # Pour aller plus loin
 Nous avons vu les bases de l’éditeur, de son utilisation, et des Blueprints. Vous ne vous en rendez peutêtre pas compte, mais vous avait déjà fait un travail surhumain ! Et n’oubliez pas que, la limitation technique permet de développer la créativité. 😉
+
 Si vous voulez vraiment vous lancer plus profondément dans ce moteur de jeu, je ne peux que vous recommander les vidéos de Ben Tristem sur Udemy concernant Unreal Engine. 
 Ce dernier aborde autant le C++ que le Blueprints et les différents aspects de création d’un jeu tout en mettant au point des défis pour apprendre. 
 De plus, si vous souhaitez apprendre gratuitement, Unreal Academy est un bon point, ainsi que pas mal de tutoriels sur YouTube. 
