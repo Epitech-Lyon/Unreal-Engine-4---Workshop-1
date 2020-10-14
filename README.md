@@ -263,38 +263,11 @@ Vous pourrez trouver tous ces liens à la fin.
 ## Comment est-ce que l'on crée un jeu ?
 
 Voici un modèle **très** simplifié que j'aime bien présenter : les étapes de création d'un jeu vidéo.
-<table align="center">
-<tr>
-<td align="center" width="9999">
-
-```mermaid
-
-graph LR
-
-subgraph Design
-A[Idéation] --> B[Game Design]
-end
-
-subgraph Production
-B --> C[Programmation]
-B --> D[Art]
-C --> E[Prototype]
-D --> E
-end
-
-E --> F[Test]
-
-subgraph Quality
-X --> B
-B --> A
-end
-
-F --> Z[Livraison]
-F --> X[Nouvelle Fonctionnalitée / Optimisation]
-```
-</td>
-</tr>
-</table>
+</br>
+<div align="center">
+<a id="UE_3"><img src="ressources_readme/GameDev.png" width="1000" height="" /></a>
+</div>
+</br>
 
 Alors oui, cela ne correpondra sûrement pas à la méthodologie qu'utilise Ubisoft, mais le principe est là, surtout pour une Game Jam.
 
