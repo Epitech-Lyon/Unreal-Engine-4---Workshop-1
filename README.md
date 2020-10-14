@@ -118,12 +118,10 @@ Le but est d'arriver à un résultat similaire aux images ci-dessous.
 
 > 💭 RÉFLEXION
 >
-> A vous d’essayer ! Essayez de faire quelque chose de similaire (intérieur,
-extérieur ou même les deux) ! 
+> A vous d’essayer ! Essayez de faire quelque chose de similaire (intérieur, extérieur ou même les deux) ! 
 >
-> Jouez avec les effets, formes et Materials. Soyez
-créatifs !
-<>
+> Jouez avec les effets, formes et Materials. Soyez créatifs !
+>
 
 > 🎯 ASTUCE
 >
@@ -178,8 +176,51 @@ Je vous laisse vous amuser avec l'éditeur, et plus précisement ce qui se trouv
 > 🔍 DÉCOUVERTE
 >
 > Prenez votre temps et n'hésitez pas à travailler à plusieurs ou demander de l'aide.
+>
 > Si vous n'êtes pas à l'aise, cela pourrait s'avérer compliqué par la suite ! Alors, prenez votre temps.
+>
 > A vous de jouer !
+>
+
+### Votre premier script Blueprint
+Enfin un peu de programmation !
+
+Allez dans l'**Event Graph** de votre Blueprint et... Supprimez tout. Tout ce que vous voyez dans l'Event Graph, **pas ailleurs**. Cependant, n'hésitez pas à jeter un coup d'oeil avant, c'est préférable ! Fait ? On peut désormais passer au coeur du sujet.
+
+Créez une nouvelle **variable** et appelez là **Trigger**. Modifiez son **Type** pour **Trigger Volume > Object Reference**. Normalement Object Reference est l'option de base, mais ne sait-on jamais. Activez l'option **Instance Editable** dans la variable et appuyez sur Compile !
+
+**L'option Instance Editable peut se soit modifier dans les détails de la variable, soit en cliquant sur l'oeil au niveau du nom de la variable. A vous de choisir !**
+
+Retournez sur votre niveau, et glissez votre BP_Door à l'intérieur. Sélectionnez-le et... Vous avez accès à la variable Trigger que vous pouvez directement définir une fois que vous aurez un **Trigger Volume** dans votre niveau. Cela permet d'éviter de la définir en dur, et nous fait profiter au maximum de la capacité des Blueprints, surtout en tant que débutant.
+
+> 🎯 ASTUCE
+>
+> Vous pouvez faire glisser les variables directement dans l’Event Graph ! Essayez pour voir, créez-en même de nouvelles, découvrez les différents types…
+>
+> Imaginez ce que cela pourrait être ou faire ! Pour ajouter des nœuds : clic droit !
+>
+
+Bon, c’est bien joli tout ça, mais il faut qu’on fasse quelque chose pour que la porte s’ouvre quand nous entrons dans le Volume non ? 
+Sélectionnez la variable Trigger et dans Events, appuyez sur le [+] de **On Actor Begin Overlap**, faites la même chose pour **On Actor End Overlap**. 
+Pour celles et ceux qui auraient du mal, cela signifie que : Quand un acteur entre dans la zone de l’objet, ou la quitte.
+
+Vous avez compris ce que vous devez faire dans l’Event Graph maintenant ? Non ? Pas encore ? Allez, je vous aide !
+- Get SM_Door node (Le Drag&Drop des Components fonctionne... Ou la barre de recherche clic droit aussi)
+- LocalRotation node (Set ou Add ? X, Y ou Z ? En fonction de quel objet ?)
+
+N’oubliez pas d'utiliser votre Trigger Volume dans l’éditeur aussi... 😉
+
+> 💭 RÉFLEXION
+>
+> Vous galérez ? C’est normal ! Au début vous pourriez peut-être y passer plus de 30 minutes ! Travaillez en groupe ou demandez des pistes !
+>
+> Vous tenez le bon bout !
+>
+
+> 🔍 DÉCOUVERTE
+>
+> Voici quelques pistes d’amélioration : variable de rotation modifiable dans l’éditeur, mettre ça dans des fonctions, récupérer le Trigger le plus proche ou même une double porte. 
+> Pourquoi pas une porte s’ouvrant avec une touche ?
 >
 
 # Bonus
